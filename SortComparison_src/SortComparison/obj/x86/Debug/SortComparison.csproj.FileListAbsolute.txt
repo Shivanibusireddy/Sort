@@ -3,3 +3,8 @@ C:\Users\S531494\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug
 C:\Users\S531494\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
 C:\Users\S531494\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
 C:\Users\S531494\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
