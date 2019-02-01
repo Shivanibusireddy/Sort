@@ -1,5 +1,5 @@
 # Sort
-Answers for the Given Questions:
+# - Answers for the Given Questions:
 Which algorithm is faster?
 Bucket sort Algorithm is faster
 Where is the entry point of the application? (The place execution begins - provide the fully qualified class name and method name)
