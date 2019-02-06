@@ -25,6 +25,8 @@ namespace SortComparison
         public frmMain()
         {
             InitializeComponent();
+            this.cboAlg1.SelectedIndex = 2;
+            this.cboAlg2.SelectedIndex = 12;
         }
 
         private void Form1_Load(object sender, EventArgs e)
