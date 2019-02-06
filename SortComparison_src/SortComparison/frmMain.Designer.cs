@@ -104,12 +104,13 @@
             // 
             // cmdShuffle
             // 
+            this.cmdShuffle.BackColor = System.Drawing.Color.OrangeRed;
             this.cmdShuffle.Location = new System.Drawing.Point(263, 257);
             this.cmdShuffle.Name = "cmdShuffle";
             this.cmdShuffle.Size = new System.Drawing.Size(75, 23);
             this.cmdShuffle.TabIndex = 4;
             this.cmdShuffle.Text = "Shuffle";
-            this.cmdShuffle.UseVisualStyleBackColor = true;
+            this.cmdShuffle.UseVisualStyleBackColor = false;
             this.cmdShuffle.Click += new System.EventHandler(this.cmdShuffle_Click);
             // 
             // cmdSort
@@ -227,7 +228,7 @@
             this.txtOutputFolder.Name = "txtOutputFolder";
             this.txtOutputFolder.Size = new System.Drawing.Size(215, 20);
             this.txtOutputFolder.TabIndex = 16;
-            this.txtOutputFolder.Text = "E:\\Sort";
+            this.txtOutputFolder.Text = "C:\\Users\\S531494\\Documents\\44663\\Sort\\SortComparison_src\\output";
             // 
             // label4
             // 

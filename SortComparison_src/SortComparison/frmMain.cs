@@ -91,8 +91,8 @@ namespace SortComparison
         private void RedrawItem(int index1, Graphics g, IList a)
         {
             int x1 = (int)(((double)pnlSort1.Width / array1.Count) * index1);
-            g.DrawLine(new Pen(Color.green), new Point(x1, 0), new Point(x1, pnlSort1.Height));
-            g.DrawLine(new Pen(Color.yellow), new Point(x1, pnlSort1.Height), new Point(x1, (int)(pnlSort1.Height - (int)a[index1])));
+            g.DrawLine(new Pen(Color.Green), new Point(x1, 0), new Point(x1, pnlSort1.Height));
+            g.DrawLine(new Pen(Color.Yellow), new Point(x1, pnlSort1.Height), new Point(x1, (int)(pnlSort1.Height - (int)a[index1])));
         }
 
         private void cmdSort_Click(object sender, EventArgs e)
