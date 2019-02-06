@@ -25,13 +25,28 @@ namespace SortComparison
         public frmMain()
         {
             InitializeComponent();
+            this.cboAlg1.SelectedIndex = 2;
+            this.cboAlg2.SelectedIndex = 12;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             this.tbSamples.Value = 50;
+<<<<<<< HEAD
            
+=======
+            this.cboAlg1.SelectedIndex = 3;
+            this.cboAlg2.SelectedIndex = 11;
+            this.InitializeOutputFolder();
+
+          
+            
+>>>>>>> 3eb15d82ff2298b9b4cadba3c8648299957270e0
         }
+        private string InitializeOutputFolder()
+         {
+            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
+         }
 
         public void Randomize(IList list)
         {

@@ -8,6 +8,7 @@ C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
@@ -15,3 +16,10 @@ C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\bin\Debu
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S531494\Documents\44663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+=======
+C:\Users\vijay\Documents\44-663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\vijay\Documents\44-663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\vijay\Documents\44-663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\vijay\Documents\44-663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\vijay\Documents\44-663\Sort\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+>>>>>>> 3eb15d82ff2298b9b4cadba3c8648299957270e0
