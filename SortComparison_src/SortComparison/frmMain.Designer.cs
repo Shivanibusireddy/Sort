@@ -78,6 +78,7 @@
             // 
             // cboAlg2
             // 
+            this.cboAlg2.ForeColor = System.Drawing.SystemColors.WindowText;
             this.cboAlg2.FormattingEnabled = true;
             this.cboAlg2.Items.AddRange(new object[] {
             "",
@@ -123,7 +124,7 @@
             // 
             // pnlSort1
             // 
-            this.pnlSort1.BackColor = System.Drawing.Color.White;
+            this.pnlSort1.BackColor = System.Drawing.Color.PaleGreen;
             this.pnlSort1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort1.Location = new System.Drawing.Point(13, 12);
             this.pnlSort1.Name = "pnlSort1";
@@ -133,7 +134,7 @@
             // 
             // pnlSort2
             // 
-            this.pnlSort2.BackColor = System.Drawing.Color.White;
+            this.pnlSort2.BackColor = System.Drawing.Color.PaleGreen;
             this.pnlSort2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort2.Location = new System.Drawing.Point(219, 12);
             this.pnlSort2.Name = "pnlSort2";
