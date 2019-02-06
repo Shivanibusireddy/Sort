@@ -13,4 +13,7 @@ The fully qualified name is SortComparision.frmMain and is derived from Form. <b
 6. What is this.tbSamples.Value? <br>
 this.tbSamples.Value this defines the number of sample values to be taken by default for sorting. <br>
 7. What is this.cboAlg1?
-This is used to set the default type of sort for the application. 
+This is used to set the default type of sort for algorithm1
+8. What is this.cboAlg2?
+This is used to set the default type of sort for algorithm2 
+
